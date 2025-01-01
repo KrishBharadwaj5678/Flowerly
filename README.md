@@ -26,6 +26,3 @@ Experience the joy of planting flowers in your own environment with **Flowerly**
 2. Scan your environment to detect surfaces.
 3. Tap on a detected surface to plant a flower.
 4. Use the reset button to clear all flowers and start again.
-
-**Experience the beauty of flowers at your fingertips with Flowerly!**
-
