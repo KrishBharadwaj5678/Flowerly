@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ee18f92cf3523f43bb4863517ef48d1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208311
+  packageName: Fireworks | Free Realistic Fireworks
+  packageVersion: 2.0.0
+  assetPath: Packages/com.occasoftware.fireworks/Runtime/Prefabs/Firework_BlueNeon.prefab
+  uploadId: 602497

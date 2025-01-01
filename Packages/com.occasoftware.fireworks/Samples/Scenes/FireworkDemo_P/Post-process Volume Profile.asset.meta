@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dc4cce95861dfcb46a44e5134348ac08
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208311
+  packageName: Fireworks | Free Realistic Fireworks
+  packageVersion: 2.0.0
+  assetPath: Packages/com.occasoftware.fireworks/Samples/Scenes/FireworkDemo_P/Post-process
+    Volume Profile.asset
+  uploadId: 602497

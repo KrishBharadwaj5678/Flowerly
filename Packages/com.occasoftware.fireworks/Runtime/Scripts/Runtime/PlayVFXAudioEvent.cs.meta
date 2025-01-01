@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f58d940e13c08434fba222a524947d62
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208311
+  packageName: Fireworks | Free Realistic Fireworks
+  packageVersion: 2.0.0
+  assetPath: Packages/com.occasoftware.fireworks/Runtime/Scripts/Runtime/PlayVFXAudioEvent.cs
+  uploadId: 602497

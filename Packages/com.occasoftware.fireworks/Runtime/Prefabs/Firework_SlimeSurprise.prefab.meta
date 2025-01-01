@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 07cd8a2247f6a254fb760c0a87ca5855
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208311
+  packageName: Fireworks | Free Realistic Fireworks
+  packageVersion: 2.0.0
+  assetPath: Packages/com.occasoftware.fireworks/Runtime/Prefabs/Firework_SlimeSurprise.prefab
+  uploadId: 602497

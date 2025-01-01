@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e53cb520cf8d800449be7661232c4ee1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208311
+  packageName: Fireworks | Free Realistic Fireworks
+  packageVersion: 2.0.0
+  assetPath: Packages/com.occasoftware.fireworks/Samples/Scenes/Fireworks SceneSettings.lighting
+  uploadId: 602497

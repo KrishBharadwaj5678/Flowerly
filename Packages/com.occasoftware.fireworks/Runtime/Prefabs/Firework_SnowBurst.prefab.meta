@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0aff0f42088019f4cb6081354fe07f62
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208311
+  packageName: Fireworks | Free Realistic Fireworks
+  packageVersion: 2.0.0
+  assetPath: Packages/com.occasoftware.fireworks/Runtime/Prefabs/Firework_SnowBurst.prefab
+  uploadId: 602497

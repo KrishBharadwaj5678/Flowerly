@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 850fc82ab3c06f347ae62920c164b9c5
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208311
+  packageName: Fireworks | Free Realistic Fireworks
+  packageVersion: 2.0.0
+  assetPath: Packages/com.occasoftware.fireworks/Runtime/Scripts/Runtime/OccaSoftware.Fireworks.Runtime.asmdef
+  uploadId: 602497

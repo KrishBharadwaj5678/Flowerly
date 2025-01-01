@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be571d1c849517246b008af7fd43197f
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208311
+  packageName: Fireworks | Free Realistic Fireworks
+  packageVersion: 2.0.0
+  assetPath: Packages/com.occasoftware.fireworks/Runtime/VFX/VFX_Firework.vfx
+  uploadId: 602497
